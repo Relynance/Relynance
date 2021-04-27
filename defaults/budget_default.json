@@ -1,0 +1,33 @@
+{
+    "Groceries": {
+        "Food": "a",
+        "Toys": 0,
+        "Clothes": 0
+    },
+    "Utilities": {
+        "Gas": 0,
+        "Electricity": 0,
+        "Phone": 0,
+        "Water": 0,
+        "Mortgage/Rent": 0
+    },
+    "Medical": {
+        "Doctor": 0,
+        "Medicine": 0
+    },
+    "Insurance": {
+        "Life": 0,
+        "Medical": 0,
+        "Homeowners": 0,
+        "Car": 0
+    },
+    "Gifts": {
+        "Christmas": 0,
+        "Holidays": 0,
+        "Birthdays": 0
+    },
+    "Vacation": {
+        "Hotels": 0,
+        "Travel": 0
+    }
+}
