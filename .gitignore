@@ -132,5 +132,5 @@ dmypy.json
 .vscode/
 
 # Relynance Data
-/data
+data/
 config.json
