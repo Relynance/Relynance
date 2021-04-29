@@ -1,4 +1,5 @@
 import os
+import sys
 import json
 import os
 from errors import MalformedConfig

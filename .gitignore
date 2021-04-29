@@ -134,3 +134,4 @@ dmypy.json
 # Relynance Data
 data/
 config.json
+test_files/

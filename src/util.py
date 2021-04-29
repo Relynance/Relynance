@@ -1,3 +1,6 @@
+import os
+import sys
+
 def verify_budget(budget):
     if budget.type() == dict:
         for key, value in zip(list(budget.keys()), list(budget.values())):
@@ -6,3 +9,6 @@ def verify_budget(budget):
                     if k.type() == str and v.type() == int:
                         return True
     return False
+
+def add_paths():
+    sys.path.append(os.path.abspath("gui"))
