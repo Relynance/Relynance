@@ -1,0 +1,8 @@
+{
+    "version": 0.1,
+    "dirs": {
+        "data": "data",
+        "src": "src"
+    },
+    "debug": true
+}
