@@ -1,1 +1,2 @@
-bson
+json
+pyqt5
